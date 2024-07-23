@@ -12,8 +12,7 @@ var config = {
         "Ngủ nghỉ ngon giấc",
         "Khỏe mạnh và bình an",
         "Chúc babi mọi điều tốt đẹp trên thế giới nàyyyyy",
-        "Anh thương em nhiềuuuuu",
-        "CHỤT~~",
+        "Anh thương em nhiềuuuuu... CHỤT~~",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -25,7 +24,14 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "Chúc babi của anh": "./imgs/babi.jpg",
+        "Luôn xinh đẹp rạng ngời": "./imgs/xinhdep.jpg",
+        "Chăm ngoan học giỏi": "./imgs/hoctap.jpg",
+        "Công việc như ý": "./imgs/lamviec.jpg",
+        "Ăn uống đầy đủ": "./imgs/anuong.jpg",
+        "Ngủ nghỉ ngon giấc": "./imgs/ngunghi.jpg",
+        "Khỏe mạnh và bình an": "./imgs/khoemanh.jpg",
+        "Chúc babi mọi điều tốt đẹp trên thế giới nàyyyyy": "./imgs/totdep.jpg",
+        "Anh thương em nhiềuuuuu... CHỤT~~": "./imgs/yeuem.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
